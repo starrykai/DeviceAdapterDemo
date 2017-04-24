@@ -26,6 +26,7 @@
 		3C81A7EB1E8FAE0B00D5AC55 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3C81A7EE1E8FAE0B00D5AC55 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3C81A7F01E8FAE0B00D5AC55 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3C81A7F61E8FAED000D5AC55 /* Macro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Macro.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				3C81A7E31E8FAE0B00D5AC55 /* AppDelegate.m */,
 				3C81A7E51E8FAE0B00D5AC55 /* ViewController.h */,
 				3C81A7E61E8FAE0B00D5AC55 /* ViewController.m */,
+				3C81A7F61E8FAED000D5AC55 /* Macro.h */,
 				3C81A7E81E8FAE0B00D5AC55 /* Main.storyboard */,
 				3C81A7EB1E8FAE0B00D5AC55 /* Assets.xcassets */,
 				3C81A7ED1E8FAE0B00D5AC55 /* LaunchScreen.storyboard */,
